@@ -16,9 +16,9 @@ so we had no choice but to make this thing instead.
 
 You Need To Build it yourself.
 
-To compile Travertine, you need git, gradle, and an internet connection.
+To compile flowcity, you need git, gradle, and an internet connection.
 
-Clone this repo, run `./travertine patch` from *bash*, run `./gradlew build` and get jar from `Flowcity-Proxy/bootstrap/target`
+Clone this repo, run `./patch` from *bash*, run `./gradlew build` and get jar from `Flowcity-Proxy/bootstrap/target`
 
 ## ViaProxy/VIAaaS Usage
 
