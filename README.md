@@ -8,7 +8,8 @@ However there was no better alternative for ViaProxyConnect Original Plugin, Ava
 
 ## Why fork Waterfall, and Why you dont use velocity and Shared Hosting?
 
-Well shared hosting makes minecraft servers cramped in one server, result? server will not boot due to a Out of memory(aka OOMKiller). so we had no choice but to use this thing instead.
+Well, shared hosting makes minecraft servers cramped in one server, result? server will not boot due to a Out of memory(aka OOMKiller). so many of you guys, suggesting me to Buy more server, i would say one thing. Financial Problem. you see, we need to feed all the servers for more performance. if i purchased more server, it would cost quadrillion dollars. we cannot afford that.
+so we had no choice but to make this thing instead.
 
 
 ## How to (Server Admins)
