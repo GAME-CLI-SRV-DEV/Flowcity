@@ -22,6 +22,22 @@ Clone this repo, run `./patch` from *bash*, run `./gradlew build` and get jar fr
 
 ## ViaProxy/VIAaaS Usage
 
+to use ViaProxy, you need to set `ViaNetwork:` settings.
+
+on flowcity.yml:
+```
+ViaNetwork:
+# configure the Integration ViaVersion Network.
+# 
+# ViaProxy: if it's enabled, connecting to .viaproxy.hostname:<bungeeport> will be deemed as Forced Host.
+# ViaProxyPort: set it to connect to viaproxy if it runs on specified port.
+# Viaaspirin: if it's enabled, connecting to viaaas hostname will be deemed as a forced host.
+# aspirinprefix: setting it will redirect to desired viaaas prefix.
+# aspirinport: set it to connect to viaaas if it runs on specified port.
+# WARNING! You will be granting access to all servers!
+ViaProxy: enabled
+ViaProxyPort: 25565
+```
 
 ## PR
 We Accept contributions.\
