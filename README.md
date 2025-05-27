@@ -1,13 +1,14 @@
-APXCORD(TM)
+Flowcity(TM)
 =========
 
-APXCord is Waterfall with Velocity. Waterfall is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
+Flowcity is Waterfall with Velocity. Waterfall is a fork of the well-known [BungeeCord](https://github.com/SpigotMC/BungeeCord) server teleportation suite.
 
 Waterfall was discontinued on 2024, and it is recommended to switch to velocity.\
-However there was no better alternative for BungeeViaProxy Available for Velocity, and we had no choice but to use Travertine as template.
+However there was no better alternative for ViaProxyConnect Original Plugin, Available for Velocity, and we had no choice but to use Travertine as template.
 
 ## Why fork Waterfall, and Why you dont use velocity and Shared Hosting?
 
+Well shared hosting makes minecraft servers cramped in one server, result? server will not boot due to a Out of memory(aka OOMKiller). so we had no choice but to use this thing instead.
 
 
 ## How to (Server Admins)
@@ -16,12 +17,11 @@ You Need To Build it yourself.
 
 To compile Travertine, you need git, gradle, and an internet connection.
 
-Clone this repo, run `./travertine patch` from *bash*, get jar from `Travertine-Proxy/bootstrap/target`
+Clone this repo, run `./travertine patch` from *bash*, run `./gradlew build` and get jar from `Flowcity-Proxy/bootstrap/target`
 
-## Join us
+## ViaProxy/VIAaaS Usage
 
-* Feel free to open a PR! We accept contributions.
 
-## About
-
-Approximaster Studios 2004 | Business Number: NONE | Owner: Outfit8TSB
+## PR
+We Accept contributions.\
+Copyright (C) 2025 Approximaster Studios 2004, All Rights Reversed, Under GNU GPL 3.0.
